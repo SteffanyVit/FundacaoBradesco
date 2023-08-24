@@ -8,5 +8,5 @@ i=0
 print("notas>7.5:")
 while(i<20):
     if notas[i]>7.5:
-        print(V[i])
+        print(notas[i])
     i=i + 1
